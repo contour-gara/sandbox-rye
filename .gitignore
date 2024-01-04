@@ -8,3 +8,9 @@ wheels/
 
 # venv
 .venv
+
+# rye
+*.lock
+
+# vscode
+.vscode
